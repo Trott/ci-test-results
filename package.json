@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "JSONStream": "^1.0.7",
-    "async": "^1.5.2",
+    "async": "^3.0.1",
     "minimist": "^1.2.0",
     "request": "^2.67.0",
     "tap-parser": "^1.2.2"
