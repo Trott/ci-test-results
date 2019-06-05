@@ -13,6 +13,6 @@
     "async": "^1.5.2",
     "minimist": "^1.2.0",
     "request": "^2.67.0",
-    "tap-parser": "^1.2.2"
+    "tap-parser": "^9.3.2"
   }
 }
